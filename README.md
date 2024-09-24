@@ -44,8 +44,7 @@ This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimite
 This script is intended solely for educational and research purposes. The authors and contributors of this project are not responsible for any misuse of this code. Any actions taken using this code are the sole responsibility of the user.
 
 - **Non-Liability**: The authors of this code do not bear any responsibility for legal or ethical violations that occur due to the use of this script. The script should only be used in a controlled, legal environment, and not for any illegal activities. Misuse of this software may result in legal actions taken against the user by third parties.
-- 
-- **Third-Party Liability**: The author is not responsible for any actions taken by any organization, including but not limited to the Blum team, or any other entities that may use or interpret this code in any manner.
+- **Third-Party Liability**: The author is not responsible for any actions taken by any organization, including but not limited to the NotPixel team, or any other entities that may use or interpret this code in any manner.
 
 **Copyright Notice:**
 
