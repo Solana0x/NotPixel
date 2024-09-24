@@ -9,11 +9,9 @@
 # 获取 Query_id 的步骤 ->
 
 1. 打开Telegram桌面版设置，然后进入 高级 > 实验设置。
-2. ![image](https://github.com/user-attachments/assets/f2251f9a-be84-4db7-b568-7bc164bc3f78)
-3. 开启 `启用网页检查` 选项
-4. ![image](https://github.com/user-attachments/assets/9bc59cbc-0fd4-4cf8-ac70-1f6547edc366)
-5. 完成！登录NOTPIXEL并检查以获取Query ID（右键点击“检查”）。
-6. ![image](https://github.com/user-attachments/assets/c27bccac-b8bd-43fd-a3dd-7727be662abe)
+2. 开启 `启用网页检查` 选项
+3. 完成！登录NOTPIXEL并检查以获取Query ID（右键点击“检查”）。
+4. ![image](https://github.com/user-attachments/assets/c27bccac-b8bd-43fd-a3dd-7727be662abe)
 
 # 需要遵循的步骤！
 
