@@ -19,10 +19,12 @@ This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimite
 2. Then `cd NotPixel`
 3. Install Python
 4. Then `pip install -r requirements.txt`
-5. Get `query_id=` from Telegram desktop by right click on your bot and then inspect
-6. Add `query_id=` in data.txt file every line = new `query_id=`
-7. Repeat the process for all the Telegram accounts
-8. One done Run the Bot code by - `python main.py`
+6. Get `query_id=` from Telegram desktop by right click on your bot and then inspect
+7. Add `query_id=` in data.txt file every line = new `query_id=`
+8. Repeat the process for all the Telegram accounts
+9. One done Run the Bot code by - `python main.py`
+10. For proxy usage use `python proxy.py` add proxy in `proxy.txt file ` formate : `http://username:pass@ip:port`
+11. You can buy residentail proxies here `https://dataimpulse.com/?aff=23392` 5-10GB plan will be enough to run BLUM bot + Notpixel bot + future all bots for atleast 10K accounts
 
 # Features of the BOT
 
@@ -30,12 +32,12 @@ This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimite
 2. AUTO FILL THE PIXELS
 3. AUTO PROCESS ALL ACCOUNT EVERY HR IN LOOP
 4. AUTO FETCHES BALANCES
+5. PROXY SUPPORT
 
 # TODO
 
 1. AUTO UPGRADES
 2. AUTO TASKS
-3. PROXY SUPPORT
 
 # FOR ANY KIND OF HELP CONTACT : 0xphatom on Discord https://discord.com/users/979641024215416842
 
