@@ -11,7 +11,8 @@ This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimite
 1. Go to telegram desktop Settings then Advance > experimental settings.
 2. Then Turn on `enable web inspecting`
 3. Done ! Login to NOTPIXEL and inspect to get the Query ID (right click to Inspect)
-4. ![image](https://github.com/user-attachments/assets/c27bccac-b8bd-43fd-a3dd-7727be662abe)
+4. ![image](https://github.com/user-attachments/assets/6be1fce1-923b-4f0b-b1e2-71c845e58580)
+
 
 # Setps to follow !
 
