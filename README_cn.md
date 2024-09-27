@@ -11,7 +11,8 @@
 1. 打开Telegram桌面版设置，然后进入 高级 > 实验设置。
 2. 开启 `启用网页检查` 选项
 3. 完成！登录NOTPIXEL并检查以获取Query ID（右键点击“检查”）。
-4. ![image](https://github.com/user-attachments/assets/c27bccac-b8bd-43fd-a3dd-7727be662abe)
+4. ![image](https://github.com/user-attachments/assets/03ff09a2-227a-4c16-8bca-72617a1c92e6)
+
 
 # 需要遵循的步骤！
 
